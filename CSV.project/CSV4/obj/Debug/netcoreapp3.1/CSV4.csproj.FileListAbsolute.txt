@@ -1,0 +1,13 @@
+C:\Users\АлександърДиманачки\source\repos\CSV.project\CSV4\bin\Debug\netcoreapp3.1\CSV4.exe
+C:\Users\АлександърДиманачки\source\repos\CSV.project\CSV4\bin\Debug\netcoreapp3.1\CSV4.deps.json
+C:\Users\АлександърДиманачки\source\repos\CSV.project\CSV4\bin\Debug\netcoreapp3.1\CSV4.runtimeconfig.json
+C:\Users\АлександърДиманачки\source\repos\CSV.project\CSV4\bin\Debug\netcoreapp3.1\CSV4.runtimeconfig.dev.json
+C:\Users\АлександърДиманачки\source\repos\CSV.project\CSV4\bin\Debug\netcoreapp3.1\CSV4.dll
+C:\Users\АлександърДиманачки\source\repos\CSV.project\CSV4\bin\Debug\netcoreapp3.1\CSV4.pdb
+C:\Users\АлександърДиманачки\source\repos\CSV.project\CSV4\obj\Debug\netcoreapp3.1\CSV4.AssemblyInfoInputs.cache
+C:\Users\АлександърДиманачки\source\repos\CSV.project\CSV4\obj\Debug\netcoreapp3.1\CSV4.AssemblyInfo.cs
+C:\Users\АлександърДиманачки\source\repos\CSV.project\CSV4\obj\Debug\netcoreapp3.1\CSV4.csproj.CoreCompileInputs.cache
+C:\Users\АлександърДиманачки\source\repos\CSV.project\CSV4\obj\Debug\netcoreapp3.1\CSV4.dll
+C:\Users\АлександърДиманачки\source\repos\CSV.project\CSV4\obj\Debug\netcoreapp3.1\CSV4.pdb
+C:\Users\АлександърДиманачки\source\repos\CSV.project\CSV4\obj\Debug\netcoreapp3.1\CSV4.genruntimeconfig.cache
+C:\Users\АлександърДиманачки\source\repos\CSV.project\CSV4\obj\Debug\netcoreapp3.1\CSV4.csprojAssemblyReference.cache

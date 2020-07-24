@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SgkO2HIZNo71dYLrOb/y9E4FZxrj7yv3OA/7zrveac/CjH7JW6qtViT+1zA74m+7ecDLg2FTrew/lEYk2Ujv5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\АлександърДиманачки\\source\\repos\\CSV.project\\CSV4\\CSV4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\АлександърДиманачки\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
